@@ -15,5 +15,6 @@ List of awesome compliance resources
 
 ## Example Docs
 
-- Datica Hipaa docs
-- Comply](https://github.com/strongdm/comply) - SOC2 example docs (also in compliance documentation automation)
+- [ClockwiseMD HIPAA policies](https://www.clockwisemd.com/policies#1-introduction) - ClockwiseMD's HIPAA policies
+- [Datica HIPAA policies](https://github.com/catalyzeio/policies/) - Datica's HIPAA policies
+- [Comply](https://github.com/strongdm/comply) - StrongDM's SOC2 policies (also in compliance documentation automation)
