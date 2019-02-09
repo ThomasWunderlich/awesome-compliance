@@ -7,3 +7,13 @@ List of awesome compliance resources
 
 - Comply
 - Compliance Masonry
+
+## Compliance Management System
+
+- Havengrc
+- GGRC Core
+
+## Example Docs
+
+- Datica Hipaa docs
+- Comply SOC2 example docs (also in compliance documentation automation)
