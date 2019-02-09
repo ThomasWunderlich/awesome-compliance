@@ -5,15 +5,15 @@ List of awesome compliance resources
 
 ## Compliance Documentation Automation
 
-- Comply
-- Compliance Masonry
+- [Comply](https://github.com/strongdm/comply) - Comply is a compliance document generator with a set of example SOC2 documents
+- [Compliance Masonry](https://github.com/opencontrol/compliance-masonry)
 
 ## Compliance Management System
 
-- Havengrc
-- GGRC Core
+- [Havengrc](https://github.com/kindlyops/havengrc)
+- [GGRC Core](https://github.com/google/ggrc-core)
 
 ## Example Docs
 
 - Datica Hipaa docs
-- Comply SOC2 example docs (also in compliance documentation automation)
+- Comply](https://github.com/strongdm/comply) - SOC2 example docs (also in compliance documentation automation)
