@@ -12,6 +12,7 @@ List of awesome compliance resources
 
 - [Havengrc](https://github.com/kindlyops/havengrc)
 - [GGRC Core](https://github.com/google/ggrc-core)
+- [Govready](https://github.com/GovReady/govready-q) - GRC platform 
 
 ## Example Docs
 
